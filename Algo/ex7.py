@@ -1,0 +1,1 @@
+numero1, numero2, operacao=int(str(input("insira 2 números inteiros e a operação que deseja realizar entre eles: ")))

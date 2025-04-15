@@ -4,4 +4,4 @@ valor_final= valor_unitario * quantidade
 if valor_final >= 100:
     print(f"você ganhou 5% de desconto"), print(f'valor da compra: R${valor_final - valor_final*0.5}')
 else:
-    print(f"valor da compra: R${valor_final}")    
+    print(f"valor da compra: R${valor_final}") 

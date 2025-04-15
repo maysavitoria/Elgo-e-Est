@@ -10,5 +10,5 @@ senha2 = input('insira sua senha: ')
 if usuario2 == usuario :
     if senha2 == senha:
         print('sucesso! ')
-    else:
+else:
         print ('erro')
